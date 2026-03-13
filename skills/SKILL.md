@@ -1,17 +1,9 @@
 ---
 name: vitest-a11y
-description: >
-  Senior developer expert in accessibility testing with Vitest and W3C ARIA APG patterns. Use this skill when the user asks to
-  write, fix, or review accessibility tests using Vitest — in jsdom mode or Browser Mode. Triggers:
-  "write a11y tests", "vitest accessibility", "test this component", "fix my vitest test",
-  "test keyboard navigation", "test aria attributes", "test focus management", "vitest-axe",
-  "vitest browser mode a11y", "test APG pattern", "test dialog", "test combobox", "test tabs",
-  "test modal", "test accordion", "test menu", "test listbox", "test disclosure", "test slider",
-  "test radio group", "test checkbox", "test switch", "test alert", "test tooltip", "test breadcrumb",
-  "test tree view", "test toolbar", or any request to test a UI component for accessibility compliance.
-  If the skill detects non-compliance or broken test setup, it must apply the required code/config fixes
-  automatically and re-run validation.
+description: Accessibility testing skill for Vitest using axe-core and WAI-ARIA APG patterns
 ---
+
+
 
 # Vitest Accessibility Testing — Senior Expert
 
